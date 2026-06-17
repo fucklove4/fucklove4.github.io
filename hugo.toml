@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '丹的博客'
 theme = "PaperMod"
+author='dan'
+description = "这是我的个人博客，记录技术学习和生活思考"

@@ -2,6 +2,13 @@
 date = '2026-06-17T19:22:59+08:00'
 draft = false
 title = 'about me'
+[menu.main]
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 10
+
+
 +++
 
 自高中三年落幕，我才发觉这三年间过得飞快，我仍旧觉得入学的那天恍惚昨日，高中是苦的，但脑海里却只剩下了甜。
@@ -10,9 +17,3 @@ title = 'about me'
 
 >一个人如果知道自己为什么而活，就可以忍受任何一种生活。--尼采
 
-[menu]
-  [[menu.main]]
-    identifier = "about me"
-    name = "关于"
-    url = "/about/"
-    weight = 10

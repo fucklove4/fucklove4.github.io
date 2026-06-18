@@ -2,11 +2,7 @@
 date = '2026-06-17T19:22:59+08:00'
 draft = false
 title = 'about me'
-[menu.main]
-  identifier = "about"
-  name = "关于"
-  url = "/about/"
-  weight = 10
+
 
 
 +++

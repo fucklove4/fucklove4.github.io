@@ -4,3 +4,8 @@ title = '丹的博客'
 theme = "PaperMod"
 author='dan'
 description = "这是我的个人博客，记录技术学习和生活思考"
+[[menu.main]]
+  identifier = "about"
+  name = "关于"
+  url = "/about/"
+  weight = 10

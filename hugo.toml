@@ -5,7 +5,11 @@ theme = "PaperMod"
 author='dan'
 description = "这是我的个人博客，记录技术学习和生活思考"
 [[menu.main]]
-  identifier = "about"
+  identifier = "home"
+  name = "首页"
+  url = "/"
+  weight = 1
+ identifier = "about"
   name = "关于"
   url = "/about/"        
   weight = 10
